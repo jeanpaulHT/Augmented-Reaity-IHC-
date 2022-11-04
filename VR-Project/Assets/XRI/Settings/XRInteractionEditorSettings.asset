@@ -12,9 +12,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2d38fb1463c5c804b8847c20e8873623, type: 3}
   m_Name: XRInteractionEditorSettings
   m_EditorClassIdentifier: 
-<<<<<<< HEAD
-  m_InteractionLayerUpdaterShown: 0
-=======
   m_InteractionLayerUpdaterShown: 1
->>>>>>> 5cfdcc3508b7c3850ac9e901f3925ac8e7fb94b5
   m_ShowOldInteractionLayerMaskInInspector: 0
